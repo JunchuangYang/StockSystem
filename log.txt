@@ -1,0 +1,4 @@
+2018-11-20 15:41:24,772 - mini_frame.py[line:203] - INFO:访问的是/index.html
+2018-11-20 15:41:28,800 - mini_frame.py[line:203] - INFO:访问的是/center.html
+2018-11-20 15:41:31,368 - mini_frame.py[line:203] - INFO:访问的是/update/300268.html
+2018-11-20 15:41:35,927 - mini_frame.py[line:203] - INFO:访问的是/index.html
